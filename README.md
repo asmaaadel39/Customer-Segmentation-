@@ -1,4 +1,4 @@
-# Gradution--Project-
+
 ***Customer Segmentation using Machine Learning***
 
 This project centers on analyzing the customer behavior of an online retail store. The objective of this project is to perform an Exploratory Data Analysis (EDA) and Recency, Frequency, and Monetary (RFM) Analysis. Data cleaning and transformation will also be carried out. The programming language used in the analysis is Python, and the data set is loaded from a csv file. The analysis is done in Jupyter Notebook, Kaggle and Google Colab.
